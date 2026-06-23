@@ -1,213 +1,157 @@
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                  SUJAL MANPARA · AI AGENT ENGINEER             ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d24,100:ff8a00&height=200&section=header&text=Sujal%20Manpara&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=I%20ship%2C%20I%20don't%20demo&descAlignY=60&descAlign=50" alt="header"/>
+# Sujal Manpara
 
-<a href="https://github.com/sujalmanpara">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF4D24&center=true&vCenter=true&width=760&lines=AI+Agent+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%E2%9A%A1;LLM+%26+Multi-Agent+Systems+Builder;From+frontend+to+backend+to+infra+%E2%80%94+I+own+it+all;0+%E2%86%92+1+is+where+I+live" alt="Typing SVG" />
-</a>
+**AI Agent Engineer · Full-Stack Developer**
 
-<br/>
+_I ship, not demo._
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-manpara-518065254/)
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sujal_Manpara)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujalmanpara@gmail.com)
-[![Ampere](https://img.shields.io/badge/Ampere.sh-ff8a00?style=for-the-badge&logo=lightning&logoColor=white)](https://ampere.sh)
-
-<img src="https://komarev.com/ghpvc/?username=sujalmanpara&label=Profile%20views&color=ff4d24&style=flat-square" alt="profile views" />
+<a href="https://www.linkedin.com/in/sujal-manpara-518065254/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/></a>
+<a href="https://x.com/Sujal_Manpara"><img src="https://img.shields.io/badge/X-0d1117?style=flat&logo=x&logoColor=ffffff" alt="X"/></a>
+<a href="mailto:sujalmanpara@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat&logo=gmail&logoColor=ea4335" alt="Email"/></a>
+<a href="https://ampere.sh"><img src="https://img.shields.io/badge/Ampere.sh-0d1117?style=flat&logo=lightning&logoColor=39d353" alt="Ampere"/></a>
+<img src="https://komarev.com/ghpvc/?username=sujalmanpara&label=Profile%20views&color=39d353&style=flat" alt="views"/>
 
 </div>
 
 ---
 
-## 🧠 whoami
+### About
 
-```ts
-const sujal = {
-  role: "AI Agent Engineer & Full-Stack Developer",
-  motto: "I ship, not demo.",
-  location: "India 🇮🇳",
-  building: "autonomous agents that run real businesses",
-  flagship: "Ampere — agent hosting running 5000+ AI agents",
-  domains: ["AI / Agents", "Web", "Backend", "Infra/DevOps", "Data/ML", "Mobile"],
-  mindset: "I walk into chaos and ship.",
-};
-```
+I'm an AI engineer who ships, not demos. I built **Ampere** — agent hosting running 5,000+ AI agents — an **autonomous AI CEO** that runs a business, and **SAMURAI**, a multi-agent orchestration engine. From backend to frontend to infra, I own the whole stack, end to end.
 
-> **I'm an AI engineer who ships, not demos.** I built **Ampere** — agent hosting running 5000+ AI agents — an **autonomous AI CEO** that runs a business, and **SAMURAI**, a multi-agent orchestration engine. Backend, frontend, infra, data — I own the whole stack, end to end.
-
-<div align="center">
-
-| `5000+` | `9` | `0 → 1` |
-|:---:|:---:|:---:|
-| agents running on my infra | open-source AI systems | is where I live |
-
-</div>
+- 🔭 Currently building autonomous agents that run real businesses
+- 🌐 Working across **AI/Agents · Web · Backend · Infra/DevOps · Data/ML · Mobile**
+- 🧠 `0 → 1` is where I live — I walk into chaos and ship
+- 📫 Reach me at **sujalmanpara@gmail.com**
 
 ---
 
-## 🚀 What I Do
+### What I Do
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 AI Agent Systems**
-Autonomous agents that do real work — multi-agent orchestration, self-healing pipelines, agent-to-agent communication, and harnesses that make agents reliable in production.
-
-**🧬 LLM Engineering**
-Production LLM apps end to end — RAG, evals, prompt-injection defense, cost-tiered model routing, and evaluation engines that prove changes make things *better*, not worse.
-
-</td>
-<td width="50%" valign="top">
-
-**🏗️ Full-Stack Product**
-Complete products from zero to launch — React/Next.js frontends, Node/Fastify backends, PostgreSQL, auth, payments, SEO, analytics. Shipped to real users.
-
-**⚙️ Infra & Reliability**
-The unglamorous work that keeps products alive — Docker, CI/CD, state machines, race-condition fixes, billing integrity, container isolation, zero-downtime deploys.
-
-</td>
-</tr>
-</table>
+| Domain | Focus |
+|:--|:--|
+| 🤖 **AI Agent Systems** | Multi-agent orchestration, self-healing pipelines, agent-to-agent communication, production-grade harnesses |
+| 🧬 **LLM Engineering** | RAG, evals, prompt-injection defense, cost-tiered model routing, evaluation engines |
+| 🏗️ **Full-Stack Product** | React/Next.js, Node/Fastify, PostgreSQL, auth, payments, SEO, analytics — shipped to real users |
+| ⚙️ **Infra & Reliability** | Docker, CI/CD, state machines, race-condition fixes, billing integrity, zero-downtime deploys |
 
 ---
 
-## 🔥 Featured Work
+### Featured Work
 
-<div align="center">
-
-| Project | What it is | Status |
+| Project | Description | |
 |:--|:--|:--|
-| **⚡ [Ampere](https://ampere.sh)** | Managed AI agent hosting — API proxy, orchestrator, billing, container isolation | `5000+ agents deployed` |
-| **🏹 [Orion](https://github.com/sujalmanpara/orion-ceo-agent)** | An autonomous AI CEO that runs a business while you sleep — 4-layer memory, decision journal, revenue tracking | `AI that makes money` |
-| **🗡️ [SAMURAI](https://github.com/sujalmanpara/samurai)** | Dynamic orchestration — a Queen agent builds the perfect team on the fly; agents communicate, vote & self-heal | `2 → 50+ agents` |
-| **🪙 [Gemist](https://gemlist.io)** | Creator/affiliate program discovery — full SEO, security & analytics stack | `live in production` |
-| **🔗 [Affiliate Duo](https://github.com/sujalmanpara/affiliate-duo)** | Complete affiliate management for SaaS — referral tracking, payouts, dashboards | `solo build` |
+| **⚡ [Ampere](https://ampere.sh)** | Managed AI agent hosting — API proxy, orchestrator, billing, container isolation | `5,000+ agents` |
+| **🏹 [Orion](https://github.com/sujalmanpara/orion-ceo-agent)** | An autonomous AI CEO — 4-layer memory, decision journal, revenue tracking | `AI that earns` |
+| **🗡️ [SAMURAI](https://github.com/sujalmanpara/samurai)** | Dynamic orchestration — a Queen agent builds the team on the fly; agents vote & self-heal | `2 → 50+ agents` |
+| **🪙 [Gemist](https://gemlist.io)** | Creator/affiliate program discovery — full SEO, security & analytics stack | `in production` |
+| **🔗 [Affiliate Duo](https://github.com/sujalmanpara/affiliate-duo)** | Complete affiliate management for SaaS — referrals, payouts, dashboards | `solo build` |
 | **🧰 [Harness Engine](https://github.com/sujalmanpara/harness-engine)** | Universal self-harnessing system — agents verify instead of guess | `open source` |
 | **🧬 [Agent-DNA](https://github.com/sujalmanpara/agent-dna)** | 24 engineering principles + 9 build phases + a /240 scorecard for production agents | `open source` |
-| **📊 [Evals](https://github.com/sujalmanpara/evals)** | Project-agnostic evaluation engine — task + dataset + scorers, CI-ready regression gates | `open source` |
-
-</div>
+| **📊 [Evals](https://github.com/sujalmanpara/evals)** | Project-agnostic evaluation engine — task + dataset + scorers, CI-ready gates | `open source` |
 
 ---
 
-## 🛠️ Tech Stack — across every domain
+### Tech Stack
 
 **Languages**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-2d333b?style=flat&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-2d333b?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d333b?style=flat&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-2d333b?style=flat&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-2d333b?style=flat&logo=c&logoColor=A8B9CC)
+![Java](https://img.shields.io/badge/Java-2d333b?style=flat&logo=openjdk&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-2d333b?style=flat&logo=kotlin&logoColor=7F52FF)
+![SQL](https://img.shields.io/badge/SQL-2d333b?style=flat&logo=mysql&logoColor=4479A1)
+![Bash](https://img.shields.io/badge/Bash-2d333b?style=flat&logo=gnubash&logoColor=4EAA25)
 
 **AI / ML & Data**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+&nbsp;
+![OpenAI](https://img.shields.io/badge/OpenAI-2d333b?style=flat&logo=openai&logoColor=ffffff)
+![LangChain](https://img.shields.io/badge/LangChain-2d333b?style=flat&logo=langchain&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/PyTorch-2d333b?style=flat&logo=pytorch&logoColor=EE4C2C)
+![Pandas](https://img.shields.io/badge/Pandas-2d333b?style=flat&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-2d333b?style=flat&logo=numpy&logoColor=013243)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2d333b?style=flat&logo=scikitlearn&logoColor=F7931E)
+![Jupyter](https://img.shields.io/badge/Jupyter-2d333b?style=flat&logo=jupyter&logoColor=F37626)
 
 **Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+&nbsp;
+![React](https://img.shields.io/badge/React-2d333b?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-2d333b?style=flat&logo=next.js&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/Vite-2d333b?style=flat&logo=vite&logoColor=646CFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-2d333b?style=flat&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-2d333b?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-2d333b?style=flat&logo=css3&logoColor=1572B6)
 
 **Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-2d333b?style=flat&logo=node.js&logoColor=339933)
+![Fastify](https://img.shields.io/badge/Fastify-2d333b?style=flat&logo=fastify&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express-2d333b?style=flat&logo=express&logoColor=ffffff)
+![FastAPI](https://img.shields.io/badge/FastAPI-2d333b?style=flat&logo=fastapi&logoColor=009688)
+![GraphQL](https://img.shields.io/badge/GraphQL-2d333b?style=flat&logo=graphql&logoColor=E10098)
 
 **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2d333b?style=flat&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-2d333b?style=flat&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-2d333b?style=flat&logo=redis&logoColor=DC382D)
+![Firebase](https://img.shields.io/badge/Firebase-2d333b?style=flat&logo=firebase&logoColor=FFCA28)
+![SQLite](https://img.shields.io/badge/SQLite-2d333b?style=flat&logo=sqlite&logoColor=003B57)
 
 **DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2d333b?style=flat&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/Actions-2d333b?style=flat&logo=githubactions&logoColor=2088FF)
+![Nginx](https://img.shields.io/badge/Nginx-2d333b?style=flat&logo=nginx&logoColor=009639)
+![Vercel](https://img.shields.io/badge/Vercel-2d333b?style=flat&logo=vercel&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-2d333b?style=flat&logo=linux&logoColor=FCC624)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-2d333b?style=flat&logo=cloudflare&logoColor=F38020)
 
 **Mobile & Tools**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-**⚡ By the numbers** — _last 12 months_
-
-| 🔥 Total Contributions | 🔒 Private Work | 📝 Pull Requests | 📁 Repositories |
-|:---:|:---:|:---:|:---:|
-| **1,061** | **884** commits | **2** | **47** |
-
-<sub>83% of my work lives in private repos — real products shipping to real users.</sub>
-
-<br/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sujalmanpara&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&title_color=ff4d24&icon_color=ff8a00&text_color=ffffff&hide_border=true&bg_color=0d1117" alt="stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmanpara&layout=compact&langs_count=10&theme=highcontrast&title_color=ff4d24&text_color=ffffff&hide_border=true&bg_color=0d1117" alt="top langs" />
-
-</div>
-
-### 🔥 Streak — the fire that doesn't stop
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sujalmanpara&theme=highcontrast&ring=FF4D24&fire=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D24&sideLabels=FF8A00&dates=888888&hide_border=true&background=0D1117&mode=weekly" alt="streak" />
-
-</div>
-
-### 🟩 Contribution Calendar — my consistency
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/216e39/sujalmanpara" alt="Sujal's GitHub contribution chart" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Open to every domain — let's build something that ships.
-
-[![Email](https://img.shields.io/badge/sujalmanpara@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sujalmanpara@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-manpara-518065254/)
+![Android](https://img.shields.io/badge/Android-2d333b?style=flat&logo=android&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-2d333b?style=flat&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-2d333b?style=flat&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-2d333b?style=flat&logo=figma&logoColor=F24E1E)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff8a00,100:ff4d24&height=120&section=footer" alt="footer"/>
+---
+
+### GitHub Activity
+
+> **1,061** contributions in the last year · **884** in private repos · **47** repositories
+> 83% of my work lives in private repos — real products shipping to real users.
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sujalmanpara&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmanpara&layout=compact&langs_count=10&theme=github_dark&hide_border=true&title_color=39d353&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sujalmanpara&theme=github-dark-blue&hide_border=true&ring=39d353&fire=39d353&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=39d353&sideLabels=8b949e&dates=8b949e&background=0d1117" alt="streak" />
+
+</div>
+
+#### Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/39d353/sujalmanpara" alt="Sujal's GitHub contribution chart" width="100%" />
+
+</div>
+
+<!-- ISOMETRIC_3D_PLACEHOLDER -->
+
+---
+
+<div align="center">
+
+**Open to opportunities across every domain — let's build something that ships.**
+
+<sub>⭐ From <a href="https://github.com/sujalmanpara">sujalmanpara</a></sub>
 
 </div>
