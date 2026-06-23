@@ -144,6 +144,18 @@ I'm an AI engineer who ships, not demos. I built **Ampere** — agent hosting ru
 
 </div>
 
+#### Watch the Snake Eat My Contributions 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalmanpara/sujalmanpara/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalmanpara/sujalmanpara/output/snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sujalmanpara/sujalmanpara/output/snake.svg" width="100%" />
+</picture>
+
+</div>
+
 #### 3D Contribution City
 
 <div align="center">
