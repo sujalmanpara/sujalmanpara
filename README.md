@@ -14,7 +14,7 @@ _I ship, not demo._
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="divider"/>
 
 ### About
 
@@ -25,7 +25,7 @@ I'm an AI engineer who ships, not demos. I built **Ampere** — agent hosting ru
 - 🧠 `0 → 1` is where I live — I walk into chaos and ship
 - 📫 Reach me at **sujalmanpara@gmail.com**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="divider"/>
 
 ### ⚡ What I Do
 
@@ -154,9 +154,9 @@ Project-agnostic evaluation engine — task + dataset + scorers, CI-ready gates.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="divider"/>
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 &nbsp;
@@ -221,9 +221,9 @@ Project-agnostic evaluation engine — task + dataset + scorers, CI-ready gates.
 ![Postman](https://img.shields.io/badge/Postman-2d333b?style=flat&logo=postman&logoColor=FF6C37)
 ![Figma](https://img.shields.io/badge/Figma-2d333b?style=flat&logo=figma&logoColor=F24E1E)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="divider"/>
 
-### GitHub Activity
+### 📊 GitHub Activity
 
 > **1,061** contributions in the last year · **884** in private repos · **47** repositories
 > 83% of my work lives in private repos — real products shipping to real users.
@@ -259,7 +259,7 @@ Project-agnostic evaluation engine — task + dataset + scorers, CI-ready gates.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="divider"/>
 
 <div align="center">
 
