@@ -167,6 +167,16 @@ The unglamorous work that keeps products alive — Docker, CI/CD, state machines
 
 <div align="center">
 
+**⚡ By the numbers** — _last 12 months_
+
+| 🔥 Total Contributions | 🔒 Private Work | 📝 Pull Requests | 📁 Repositories |
+|:---:|:---:|:---:|:---:|
+| **1,061** | **884** commits | **2** | **47** |
+
+<sub>83% of my work lives in private repos — real products shipping to real users.</sub>
+
+<br/>
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sujalmanpara&show_icons=true&include_all_commits=true&count_private=true&theme=highcontrast&title_color=ff4d24&icon_color=ff8a00&text_color=ffffff&hide_border=true&bg_color=0d1117" alt="stats" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalmanpara&layout=compact&langs_count=10&theme=highcontrast&title_color=ff4d24&text_color=ffffff&hide_border=true&bg_color=0d1117" alt="top langs" />
 
