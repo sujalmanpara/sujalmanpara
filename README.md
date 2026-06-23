@@ -27,29 +27,132 @@ I'm an AI engineer who ships, not demos. I built **Ampere** — agent hosting ru
 
 ---
 
-### What I Do
+### ⚡ What I Do
 
-| Domain | Focus |
-|:--|:--|
-| 🤖 **AI Agent Systems** | Multi-agent orchestration, self-healing pipelines, agent-to-agent communication, production-grade harnesses |
-| 🧬 **LLM Engineering** | RAG, evals, prompt-injection defense, cost-tiered model routing, evaluation engines |
-| 🏗️ **Full-Stack Product** | React/Next.js, Node/Fastify, PostgreSQL, auth, payments, SEO, analytics — shipped to real users |
-| ⚙️ **Infra & Reliability** | Docker, CI/CD, state machines, race-condition fixes, billing integrity, zero-downtime deploys |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+#### 🤖 AI Agent Systems
+Autonomous agents that do real work — multi-agent orchestration, self-healing pipelines, agent-to-agent communication, and production-grade harnesses.
 
-### Featured Work
+</td>
+<td width="50%" valign="top">
 
-| Project | Description | |
-|:--|:--|:--|
-| **⚡ [Ampere](https://ampere.sh)** | Managed AI agent hosting — API proxy, orchestrator, billing, container isolation | `5,000+ agents` |
-| **🏹 [Orion](https://github.com/sujalmanpara/orion-ceo-agent)** | An autonomous AI CEO — 4-layer memory, decision journal, revenue tracking | `AI that earns` |
-| **🗡️ [SAMURAI](https://github.com/sujalmanpara/samurai)** | Dynamic orchestration — a Queen agent builds the team on the fly; agents vote & self-heal | `2 → 50+ agents` |
-| **🪙 [Gemist](https://gemlist.io)** | Creator/affiliate program discovery — full SEO, security & analytics stack | `in production` |
-| **🔗 [Affiliate Duo](https://github.com/sujalmanpara/affiliate-duo)** | Complete affiliate management for SaaS — referrals, payouts, dashboards | `solo build` |
-| **🧰 [Harness Engine](https://github.com/sujalmanpara/harness-engine)** | Universal self-harnessing system — agents verify instead of guess | `open source` |
-| **🧬 [Agent-DNA](https://github.com/sujalmanpara/agent-dna)** | 24 engineering principles + 9 build phases + a /240 scorecard for production agents | `open source` |
-| **📊 [Evals](https://github.com/sujalmanpara/evals)** | Project-agnostic evaluation engine — task + dataset + scorers, CI-ready gates | `open source` |
+#### 🧬 LLM Engineering
+Production LLM apps end to end — RAG, evals, prompt-injection defense, cost-tiered model routing, and evaluation engines that prove changes work.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏗️ Full-Stack Product
+Zero to launch — React/Next.js, Node/Fastify, PostgreSQL, auth, payments, SEO, analytics. Shipped to real users.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚙️ Infra & Reliability
+The work that keeps products alive — Docker, CI/CD, state machines, race-condition fixes, billing integrity, zero-downtime deploys.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:39d353,100:0d1117&height=3&section=header" width="100%" alt="divider"/>
+
+### 🚀 Featured Work
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**⚡ [Ampere](https://ampere.sh)**
+
+Managed AI agent hosting — API proxy, orchestrator, billing, container isolation.
+
+`5,000+ agents`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🏹 [Orion](https://github.com/sujalmanpara/orion-ceo-agent)**
+
+Autonomous AI CEO — 4-layer memory, decision journal, revenue tracking.
+
+`AI that earns`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🗡️ [SAMURAI](https://github.com/sujalmanpara/samurai)**
+
+Dynamic orchestration — a Queen agent builds the team on the fly; agents vote & self-heal.
+
+`2 → 50+ agents`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🪙 [Gemist](https://gemlist.io)**
+
+Creator/affiliate program discovery — full SEO, security & analytics stack.
+
+`in production`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🔗 [Affiliate Duo](https://github.com/sujalmanpara/affiliate-duo)**
+
+Complete affiliate management for SaaS — referrals, payouts, dashboards.
+
+`solo build`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🧰 [Harness Engine](https://github.com/sujalmanpara/harness-engine)**
+
+Universal self-harnessing system — agents verify instead of guess.
+
+`open source`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center">
+
+**🧬 [Agent-DNA](https://github.com/sujalmanpara/agent-dna)**
+
+24 engineering principles + 9 build phases + a /240 scorecard for production agents.
+
+`open source`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**📊 [Evals](https://github.com/sujalmanpara/evals)**
+
+Project-agnostic evaluation engine — task + dataset + scorers, CI-ready gates.
+
+`open source`
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**➕ [More →](https://github.com/sujalmanpara?tab=repositories)**
+
+44+ public repos across AI, web, infra, and data.
+
+`explore all`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -153,14 +256,6 @@ I'm an AI engineer who ships, not demos. I built **Ampere** — agent hosting ru
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalmanpara/sujalmanpara/output/snake.svg" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sujalmanpara/sujalmanpara/output/snake.svg" width="100%" />
 </picture>
-
-</div>
-
-#### 3D Contribution City
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sujalmanpara/sujalmanpara/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution city" width="100%" />
 
 </div>
 
