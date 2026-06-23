@@ -180,11 +180,11 @@ The unglamorous work that keeps products alive — Docker, CI/CD, state machines
 
 </div>
 
-### 📈 Contribution Graph
+### 🟩 Contribution Calendar — my consistency
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalmanpara&theme=high-contrast&bg_color=0d1117&color=ff8a00&line=ff4d24&point=ffffff&hide_border=true&area=true" alt="activity graph" />
+<img src="https://ghchart.rshah.org/ff4d24/sujalmanpara" alt="Sujal's GitHub contribution chart" width="100%" />
 
 </div>
 
