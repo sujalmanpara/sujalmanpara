@@ -182,11 +182,11 @@ The unglamorous work that keeps products alive — Docker, CI/CD, state machines
 
 </div>
 
-### 🔥 Real Contribution Streak
+### 🔥 Streak — the fire that doesn't stop
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sujalmanpara&theme=highcontrast&ring=ff4d24&fire=ff8a00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4d24&sideLabels=ff8a00&dates=888888&hide_border=true&background=0d1117" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=sujalmanpara&theme=highcontrast&ring=FF4D24&fire=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF4D24&sideLabels=FF8A00&dates=888888&hide_border=true&background=0D1117&mode=weekly" alt="streak" />
 
 </div>
 
