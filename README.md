@@ -144,7 +144,13 @@ I'm an AI engineer who ships, not demos. I built **Ampere** — agent hosting ru
 
 </div>
 
-<!-- ISOMETRIC_3D_PLACEHOLDER -->
+#### 3D Contribution City
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sujalmanpara/sujalmanpara/main/profile-3d-contrib/profile-night-green.svg" alt="3D contribution city" width="100%" />
+
+</div>
 
 ---
 
