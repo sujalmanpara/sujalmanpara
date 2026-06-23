@@ -194,7 +194,7 @@ The unglamorous work that keeps products alive — Docker, CI/CD, state machines
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/ff4d24/sujalmanpara" alt="Sujal's GitHub contribution chart" width="100%" />
+<img src="https://ghchart.rshah.org/216e39/sujalmanpara" alt="Sujal's GitHub contribution chart" width="100%" />
 
 </div>
 
